@@ -14,20 +14,13 @@ jobs:
     - uses: actions/checkout@v2
 
     # Install dependencies
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.8
+    # Install Mambaforge
 
-    - name: Install dependencies
-      run: |
-        conda config --add channels conda-forge
-        conda config --set channel_priority strict
-        conda update --all
-        conda create -n jb
-        conda init bash
-        conda activate jb
-        conda install --file requirements.txt
+    - uses: conda-incubator/setup-miniconda@v2
+      with:
+        environment-file: jupyter-book-env.yml
+        miniforge-version: latest
+        miniforge-variant: Mambaforge
     # Build the book
     - name: Build the book
       run: |
