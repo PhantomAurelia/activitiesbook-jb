@@ -24,6 +24,8 @@ jobs:
         conda config --add channels conda-forge
         conda config --set channel_priority strict
         conda update --all
+        conda create -n jb
+        conda activate jb
         conda install --file requirements.txt
     # Build the book
     - name: Build the book
