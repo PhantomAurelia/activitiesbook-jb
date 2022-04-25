@@ -6,18 +6,18 @@ description: From 14/03/2022 to 18/03/2022
 
 This week the Topics chapter was read completely.
 
-## Fullfield Activities:&#x20;
+## Fullfield Activities:;
 
 * Read the Topics Chapter.
 
-## Known Troubles and how they were solved:&#x20;
+## Known Troubles and how they were solved:;
 
 * No troubles appart from difficulties in the interpretation of the guide.
 
-## Unfinished Activities:&#x20;
+## Unfinished Activities:;
 
 * None.
 
-### Plan for next week:&#x20;
+### Plan for next week:;
 
 * Read again the Topics chapter in order to understand everything better.

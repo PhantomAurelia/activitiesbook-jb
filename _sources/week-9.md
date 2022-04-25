@@ -6,18 +6,19 @@ description: From 04/04/2022 to 08/04/2022
 
 This week nothing was done due to health issues.
 
-## Fullfield Activities:&#x20;
+## Fullfield Activities:;
 
 * -
 
-## Known Troubles and how they were solved:&#x20;
+## Known Troubles and how they were solved:;
 
 * -
 
-## Unfinished Activities:&#x20;
+## Unfinished Activities:;
 
 * Use of conda in the actions.
 
-### Plan for next week:&#x20;
+### Plan for next week:;
 
 * Use of conda in actions.
+* Read again the Topics of Jupyter Book's manual.
