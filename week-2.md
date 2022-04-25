@@ -4,7 +4,7 @@ description: From 14/02/2022 to 18/02/2022
 
 # Week 2
 
-This week a fresh installation of a linux distribution was made. [Solus OS](https://getsol.us/home/) was the final decission after trying to intall several others like:&#x20;
+This week a fresh installation of a linux distribution was made. [Solus OS](https://getsol.us/home/) was the final decission after trying to intall several others like:;
 
 * [Ubuntu](https://ubuntu.com).
 * [Kubuntu](https://kubuntu.org).

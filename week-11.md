@@ -1,14 +1,14 @@
 ---
-description: From 11/04/2022 to 15/04/2022
+description: From 18/04/2022 to 22/04/2022
 ---
 
 # Week 10
 
-This week holidays went on.
+The topics of Jupyter Book's manual were read again.
 
 ## Fullfield Activities:;
 
-
+* Read the topics again.
 
 ## Known Troubles and how they were solved:;
 
@@ -18,4 +18,3 @@ This week holidays went on.
 
 
 ### Plan for next week:;
-* Same as the week  before.
