@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: phd-summary-made-by-antonio-s.-cofino
+- file: FDP-summary-made-by-antonio-s.-cofino
 - file: week-1
 - file: week-2
 - file: week-3
@@ -16,3 +16,4 @@ chapters:
 - file: week-9
 - file: week-10
 - file: week-11
+- file: week-12

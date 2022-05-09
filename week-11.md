@@ -6,15 +6,16 @@ description: From 18/04/2022 to 22/04/2022
 
 The topics of Jupyter Book's manual were read again.
 
-## Fullfield Activities:;
+## Fullfield Activities:
 
 * Read the topics again.
 
-## Known Troubles and how they were solved:;
+## Known Troubles and how they were solved:
 
 
 
-## Unfinished Activities:;
+## Unfinished Activities:
 
 
-### Plan for next week:;
+### Plan for next week:
+* Watch vídeos from IFCA's YouTube channel about IPCC Atlas.
