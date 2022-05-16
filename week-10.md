@@ -6,16 +6,16 @@ description: From 11/04/2022 to 15/04/2022
 
 This week holidays went on.
 
-## Fullfield Activities:;
+## Fullfield Activities:
 
 
 
-## Known Troubles and how they were solved:;
+## Known Troubles and how they were solved:
 
 
 
-## Unfinished Activities:;
+## Unfinished Activities:
 
 
-### Plan for next week:;
+### Plan for next week:
 * Same as the week  before.
