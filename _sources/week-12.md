@@ -6,15 +6,15 @@ description: From 25/04/2022 to 30/04/2022
 
 Health issues.
 
-## Fullfield Activities:;
+## Fullfield Activities:
 
 * Watch the first two vídeos of ATLAS.
 
-## Known Troubles and how they were solved:;
+## Known Troubles and how they were solved:
 
 
 
-## Unfinished Activities:;
+## Unfinished Activities:
 
 
-### Plan for next week:;
+### Plan for next week:
