@@ -23,3 +23,10 @@ also the firsst conversion of HTML pages to PDF was made.
 ### Plan for next week:
 
 * Use of conda in actions.
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

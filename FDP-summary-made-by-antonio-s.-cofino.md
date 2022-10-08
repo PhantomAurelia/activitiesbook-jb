@@ -27,3 +27,10 @@ In this Final Degree Project, the student will create and combine of code script
 \[3] https://github.com/SantanderMetGroup/climate4R
 
 \[4] https://executablebooks.org
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

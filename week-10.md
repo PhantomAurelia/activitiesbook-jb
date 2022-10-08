@@ -19,3 +19,10 @@ This week holidays went on.
 
 ### Plan for next week:
 * Same as the week  before.
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

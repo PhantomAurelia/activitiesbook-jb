@@ -22,3 +22,10 @@ This week nothing was done due to health issues.
 
 * Use of conda in actions.
 * Read again the Topics of Jupyter Book's manual.
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

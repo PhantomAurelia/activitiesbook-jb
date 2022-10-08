@@ -22,3 +22,10 @@ The referenciation work was still in course.
 ### Plan for next week:
 
 * Try to connect Zotero with Visual Studio Code.
+* <script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

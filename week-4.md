@@ -26,3 +26,10 @@ the "mynewbook" book was pulled.
   * Start with the "Topics" part of Jupyter Book.
 
 ## Bibliography:
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
