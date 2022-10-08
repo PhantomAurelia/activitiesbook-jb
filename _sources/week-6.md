@@ -21,3 +21,10 @@ This week the Topics chapter was read completely.
 ### Plan for next week:
 
 * Read again the Topics chapter in order to understand everything better.
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

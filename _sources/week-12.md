@@ -18,3 +18,11 @@ Health issues.
 
 
 ### Plan for next week:
+
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

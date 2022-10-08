@@ -25,3 +25,10 @@ Different plugins from VSCode were unnable to link to Zotero due to a proxy prob
 * Begin hidding the outputs from the code cells of the notebooks.
 * Search a way to insert a download button for tables or anything wanted to be downloaded.
 
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -22,3 +22,11 @@ This week and the ones from july and august were a bit lite due to the summer ho
 * Complete the references.
 
 ### Plan for next week:
+
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

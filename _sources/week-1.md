@@ -33,3 +33,10 @@ This week, the creation of a first sample of a Jupyter Book has been committed. 
 \[2] Miniforge. conda-forge, 2022. Accessed: Feb. 12, 2022. \[Online]. Available: https://github.com/conda-forge/miniforge&#x20;
 
 \[3] “Create your first book.” https://jupyterbook.org/start/your-first-book.html (accessed Feb. 12, 2022).
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

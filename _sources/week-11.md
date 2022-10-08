@@ -19,3 +19,10 @@ The topics of Jupyter Book's manual were read again.
 
 ### Plan for next week:
 * Watch vídeos from IFCA's YouTube channel about IPCC Atlas.
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

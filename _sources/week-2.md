@@ -32,3 +32,10 @@ This week a fresh installation of a linux distribution was made. [Solus OS](http
 * Start a GitBook project of the Activities' Book.
 
 ## Bibliography:
+<script src="https://utteranc.es/client.js"
+        repo="PhantomAurelia/activitiesbook-jb"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
