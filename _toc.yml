@@ -5,6 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: FDP-summary-made-by-antonio-s.-cofino
+- file: normativa
 - file: week-1
 - file: week-2
 - file: week-3
